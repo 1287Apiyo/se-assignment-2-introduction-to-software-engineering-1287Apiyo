@@ -7,7 +7,7 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 a) Define Software Engineering:
-
+ 
 -The methodical application of engineering concepts and procedures to the planning, creation, testing, implementation, and upkeep of software systems is known as software engineering. In order to guarantee the production of high-quality, dependable, and effective software that satisfies user needs and operates appropriately inside its intended environment, it entails the use of structured techniques and tools. With an emphasis on producing reliable and scalable software solutions, software engineering is a multidisciplinary field that includes requirements analysis, software design, development, testing, project management, and maintenance.
 
 b) What is software engineering, and how does it differ from traditional programming?
